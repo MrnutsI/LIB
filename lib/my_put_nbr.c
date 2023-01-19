@@ -7,8 +7,6 @@
 
 #include "../include/my.h"
 
-int my_putchar(char c);
-
 int my_put_nbr(int nb)
 {
     if (nb > 9) {
